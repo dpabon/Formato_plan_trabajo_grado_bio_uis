@@ -20,4 +20,4 @@ sudo apt install texlive-lang-spanish
 
 Tambien puede utilizar servicios en linea como [Overleaf](https://www.overleaf.com/) o [ShareLatex](https://www.sharelatex.com). Recuerde crear la carpeta images y cargar la imagen logouis.png
 
-Comentarios, dudas o correcciones por favor reportarlas en github o por email.
+Comentarios, dudas o correcciones puede reportarlas en github o por email.
