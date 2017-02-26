@@ -29,7 +29,7 @@ Comentarios, dudas o correcciones puede reportarlas en github o por email.
 A excepción del logo de la Universidad Industrial de Santander.
 
 El código se encuentra bajo Licencia GPL V2.
-
+```
 formato_investigacion_bio_uis.tex.
 Copyright (C) 2017  Daniel Pabón
 
@@ -46,3 +46,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+```
