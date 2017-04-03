@@ -8,10 +8,19 @@
 \usepackage{anysize}
 \usepackage{array}
 \usepackage{tabulary}
+% paquete para para quebrar lineas de links
+\usepackage{breakurl}
+% paquete para letra arial
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+% bibliografia apa
+\usepackage{natbib}
+\bibliographystyle{newapa}
+%%%%%%%%%%%%%%%%%%%%%
 \newcolumntype{K}[1]{>{\arraybackslash}p{#1}}
 \usepackage{framed, color}
 \usepackage[table,xcdraw]{xcolor}
-\marginsize{3cm}{3cm}{0.5cm}{3cm}  
+\marginsize{3cm}{3cm}{0.5cm}{3cm}
 
 \usepackage[nottoc,numbib]{tocbibind}
 %\usepackage{hyperref}
@@ -84,7 +93,7 @@ PBX: (7) 6344000 Ext. 2354 Fax: 6349088-Bucaramanga, Colombia\\ E-mail:biojef@ui
 \emph{\textbf{(Máximo tres páginas)}}
 
 \addcontentsline{toc}{section}{BIBLIOGRAFÍA}
-\bibliographystyle{abbrv}
+
 \bibliography{%nombre del archivo bibtex
 }
 
@@ -121,9 +130,9 @@ Codirector\\
 \begin{framed}
 \textbf{EVALUADORES SUGERIDOS:}
 \begin{enumerate}
-\item Nombre:\\ 
+\item Nombre:\\
 Institución:\\
-Máximo título académico:\\ 
+Máximo título académico:\\
 E-mail:\\
 Teléfono (celular):\\
 
