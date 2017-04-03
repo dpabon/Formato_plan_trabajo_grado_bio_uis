@@ -4,18 +4,18 @@
 # NO OFICIAL #
 
 Formato de Plan de Trabajo de Grado Modalidad Investigación (NO OFICIAL) de la Escuela de Biología. Universidad Industrial de Santander.
-
-Codificado por: Daniel Pabón
-
-email: dpabonw@gmail.com
-
+***
+**02-04-2017**  
+**Versión: 0.2:** Ahora es posible utilizar otros formatos de bibliografía utilizando el paquete **natbib**. Se modifico la fuente del documento por una similar a Arial.
+***
+Codificado por: Daniel Pabón  
+email: dpabonw@gmail.com  
 github: dpabon
 
-Puede utilizar esta plantilla directamente en su computador descargando el repositorio y utilizando un compilador LaTex. Por favor asegurese de tener la dependencia "babel spanish" instalada. En Debian o derivadas:
+Puede utilizar esta plantilla directamente en su computador descargando el repositorio y utilizando un compilador LaTex. Por favor asegúrese de tener la dependencia "babel spanish" instalada. En Debian o derivadas:
 
 ````
-sudo apt install texlive
-sudo apt install texlive-lang-spanish
+sudo apt install texlive-full
 ````
 
 Tambien puede utilizar servicios en linea como [Overleaf](https://www.overleaf.com/) o [ShareLatex](https://www.sharelatex.com). Recuerde crear la carpeta images y cargar la imagen logouis.png
@@ -26,8 +26,7 @@ Comentarios, dudas o correcciones puede reportarlas en github o por email.
 
 ### LICENCIA ###
 
-A excepción del logo de la Universidad Industrial de Santander.
-
+A excepción del logo de la Universidad Industrial de Santander.   
 El código se encuentra bajo Licencia GPL V2.
 ```
 formato_investigacion_bio_uis.tex.
